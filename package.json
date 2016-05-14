@@ -1,0 +1,15 @@
+{
+  "name": "vue-config",
+  "version": "1.0.0",
+  "description": "A better way to get App config",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/airyland/vue-config.git"
+  },
+  "keywords": [
+    "vue"
+  ],
+  "author": "airyland",
+  "license": "MIT"
+}
